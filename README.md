@@ -15,6 +15,7 @@ Implementation of various machine learning algorithms for prediction.
 
 ## Dataset
 The project uses the publicly available Heart Disease Prediction dataset, containing medical and demographic data of patients.
+
 Dataset link: https://www.kaggle.com/datasets/mfarhaannazirkhan/heart-dataset
 
 ## Installation
